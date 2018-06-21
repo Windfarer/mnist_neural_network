@@ -1,0 +1,1 @@
+MNIST handwritten digit recognition by neural network
