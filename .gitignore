@@ -192,3 +192,4 @@ venv.bak/
 
 mnist_test.csv
 mnist_train.csv
+MNIST_data/
