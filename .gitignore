@@ -189,3 +189,6 @@ venv.bak/
 .mypy_cache/
 
 # End of https://www.gitignore.io/api/macos,python,pycharm+all
+
+mnist_test.csv
+mnist_train.csv
